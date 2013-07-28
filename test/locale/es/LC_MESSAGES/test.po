@@ -1,0 +1,9 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+
+
+#: test/test.py:5
+msgid "Hello world"
+msgstr "Hola mundo"
+
